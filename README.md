@@ -1,5 +1,5 @@
 
-[![Build Status](https://travis-ci.com/thepracticaldev/DEV-ios.svg?branch=master)](https://travis-ci.com/thepracticaldev/DEV-ios)
+[![Build Status](https://travis-ci.com/thepracticaldev/DEV-ios.svg?branch=master)](https://travis-ci.com/thepracticaldev/DEV-ios) [![GuardRails badge](https://badges.production.guardrails.io/shtakai/DEV-ios.svg)](https://www.guardrails.io)
 
 # DEV iOS 💖
 
